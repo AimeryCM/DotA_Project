@@ -1,6 +1,9 @@
 # Steam Web API Key
 steam_web_api_key.txt
 
+# Database Password
+database_password.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
